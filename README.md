@@ -22,7 +22,7 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 <item>
 <title>[COLOR silver]NENHUM SISTEMA ESTA SEGURO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:973225C48D4A760EC6200766C81A9993C369C06E&dn=Invasores%20-%20Nenhum%20Sistema%20Est%c3%a1%20%c3%a0%20Salvo%20%282015%29%20720p%205.1%20Dublado%20-%20Alan_680&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
-<thumbnail>https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fwww.eovideolevou.com.br%2Fdetalhe%2Fcompleto.asp%3Fcp%3D74526&psig=AOvVaw2MBWbhNUhAFlNhLd6JIttR&ust=1600407621632000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiI85a97-sCFQAAAAAdAAAAABAg</thumbnail>
+<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/495789.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Benjamin, um jovem gênio da informática é convidado para se integrar a um subversivo grupo de hackers que procura a atenção por todo o mundo.
 </info>
