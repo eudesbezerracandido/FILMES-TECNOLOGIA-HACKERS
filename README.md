@@ -59,3 +59,11 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Mostra como Bill Gates e Steve Jobs fundaram as respectivas Microsoft e Apple e a concorrência entre os dois para ver quem chegava primeiro e as estratégias que utilizaram para criarem suas empresas.</info>
 </item>
+
+<item>
+<title>[COLOR silver] REDE SOCIAL [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:786c50ac20a7978a63b45b67ef32beaf44649120&dn=A+rede+social+%282010%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://ia601504.us.archive.org/5/items/rede-social/dica-de-filme-a-Rede-Social-720x1024.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma noite de outono em 2003, Mark Zuckerberg (Jesse Eisenberg), analista de sistemas graduado em Harvard, se senta em seu computador e começa a trabalhar em uma nova ideia. Apenas seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso da rede social Facebook. O sucesso, no entanto, o leva a complicações em sua vida social e profissional.</info>
+</item>
