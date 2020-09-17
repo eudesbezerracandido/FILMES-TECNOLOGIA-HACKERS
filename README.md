@@ -35,3 +35,11 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Alex Danyliuk cansou de viver rodeado dos diversos problemas financeiros de sua família e tomou uma decisão drástica: entrar para o mundo do crime e mudar a vida de seus pais. Ao lado de Sye e da hacker Kira, que conhecem bem o mundo obscuro da criminalidade online, eles se tornam uma pedra no sapato do mercado financeiro e chegam aos ouvidos de Z, líder da organização Anonymous.</info> 
 </item>
+
+<item>
+<title>[COLOR silver] STEVE JOBS - O FILME [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109378B3342ED753AE4A0A46F69F594FAAF22481&dn=Steve%20Jobs%202016%201080p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce</link>
+<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/file.png</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Steve Jobs impressiona ao retratar a vida de um personagem através de recortes pontuais da experiência do biografado – sem nenhum tipo de complacência, diga-se; mas peca ao ruminar um drama pessoal para receber a alcunha de “filme família”. Isso, amparado por um elenco espetacular.Com roteiro de Aaron Sorkin (A Rede Social), o filme de Danny Boyle procura traçar uma análise da vida de Steve Jobs a partir de três blocos, cada um centrado no momento do lançamento de produtos caros à carreira do magnata da Apple. O primeiro deles tem lugar em 1984, com a “estreia” do computador Macintosh; em seguida, com a chegada do NeXT (1988), com o profissional já fora da empresa que o consagrou; e, finalmente, o retorno triunfante à companhia em 1998, com a apresentação do iMac.Pode soar estranho, em princípio, mas a ideia de captar a aura de um personagem a partir de “apenas” três momentos de sua vida...</info>
+</item>
