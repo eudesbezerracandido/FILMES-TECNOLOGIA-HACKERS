@@ -67,3 +67,20 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em uma noite de outono em 2003, Mark Zuckerberg (Jesse Eisenberg), analista de sistemas graduado em Harvard, se senta em seu computador e começa a trabalhar em uma nova ideia. Apenas seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso da rede social Facebook. O sucesso, no entanto, o leva a complicações em sua vida social e profissional.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] TAKEDOWN - CAÇADA VIRTUAL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fadb871a8c924da76884edf80b8137be97ff95b</link>
+<thumbnail>https://janioantunes.files.wordpress.com/2014/05/takedown.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kevin Mitnick (Skeet Urlich) é possivelmente o melhor hacker que existe no mundo. Sempre procurando por mais informações confidenciais, tentando ganhar mais cyber-prêmios a cada dia, ele busca constantemente novas conquistas. Quando entra no sistema de um perito em segurança virtual e ex-hacker, encontra um desafio aparentemente impossível de superar. Baseado em uma história real.
+Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e mais informações, buscando cada vez mais cibertrofias todos os dias, ele constantemente procura desafios maiores. Quando ele invade o computador de um especialista em segurança e um ex-hacker, ele encontra um – e muito mais que isso …</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOGO DA IMITAÇÃO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488A59696CF967548E20D3E442FF076314785FCD&dn=O%20Jogo%20Da%20Imita%c3%a7%c3%a3o%20%282015%29%20BRrip%20Blu-Ray%201080p%20Dublado%20-%20AndreTPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1a/O_Jogo_da_Imita%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante a Segunda Guerra Mundial, o governo britânico monta uma equipe que tem por objetivo quebrar o Enigma, o famoso código que os alemães usam para enviar mensagens aos submarinos. Um de seus integrantes é Alan Turing (Benedict Cumberbatch), um matemático de 27 anos estritamente lógico e focado no trabalho, que tem problemas de relacionamento com praticamente todos à sua volta. Não demora muito para que Turing, apesar de sua intransigência, lidere a equipe. Seu grande projeto é construir uma máquina que permita analisar todas as possibilidades de codificação do Enigma em apenas 18 horas, de forma que os ingleses conheçam as ordens enviadas antes que elas sejam executadas. Entretanto, para que o projeto dê certo, Turing terá que aprender a trabalhar em equipe e tem Joan Clarke (Keira Knightley) sua grande incentivadora.</info>
+</item>
