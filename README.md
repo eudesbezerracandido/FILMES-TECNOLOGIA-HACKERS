@@ -91,4 +91,14 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGJiZGMwMmUtMjdiZS00M2QzLWE3YjAtNTU2MjQ2ZDE3NDE1XkEyXkFqcGdeQXVyMTc5OTQwMzk@._V1_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Benjamin, de treze anos, descobre que sua mãe não morreu em um acidente como ele foi levado a acreditar. A trilha aponta para funcionários de alto escalão do Serviço Secreto da Dinamarca, e é dito a ele para não confiar em ninguém.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] PRIVACIDADE HACKEADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41e9ec101ebee43c82a2d3f233465cd824fdbf2d&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Privacidade%20Hackeada%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://jornalpredio3.files.wordpress.com/2019/12/dvd-privacidade-hackeada-filme-dublado-e-legendado-d_nq_np_756699-mlb31589820218_072019-f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O bem mais precioso do mundo atual não é mais petróleo, são os dados. Eles se transformaram em uma arma, usada em guerras culturais e políticas. Pessoas no mundo todo disputam o controle das nossas informações mais íntimas. Com incrível acesso às jornadas de personagens-chave em todos os lados do escândalo envolvendo a Cambridge Analytica e o Facebook, Privacidade Hackeada revela o mundo sombrio da exploração desses dados.</info>
+</item>
+
+
