@@ -91,4 +91,4 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZGJiZGMwMmUtMjdiZS00M2QzLWE3YjAtNTU2MjQ2ZDE3NDE1XkEyXkFqcGdeQXVyMTc5OTQwMzk@._V1_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Benjamin, de treze anos, descobre que sua mãe não morreu em um acidente como ele foi levado a acreditar. A trilha aponta para funcionários de alto escalão do Serviço Secreto da Dinamarca, e é dito a ele para não confiar em ninguém.</info>
-</item>
+</item> 
