@@ -101,4 +101,12 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <info>O bem mais precioso do mundo atual não é mais petróleo, são os dados. Eles se transformaram em uma arma, usada em guerras culturais e políticas. Pessoas no mundo todo disputam o controle das nossas informações mais íntimas. Com incrível acesso às jornadas de personagens-chave em todos os lados do escândalo envolvendo a Cambridge Analytica e o Facebook, Privacidade Hackeada revela o mundo sombrio da exploração desses dados.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] UNFRIENDED DARK WEB -  AMIZADE DESFEITA 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1FA49266E4AECA378251592D713B1A4AF5603C4D&dn=Amizade%20Desfeita%202%20-%20Dark%20Web%20%281080p%29%20%5bDUBLADO%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://media.fstatic.com/U1tNIs95Ce_jkYz6T-q4ZQbuiEs=/290x478/smart/media/movies/covers/2018/07/dc68b693bd6f6337e5209acc647d5fe2_300x442.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao encontrar um laptop, um jovem se conecta para iniciar um jogo on line com cinco de seus melhores amigos. Ele mostra a eles uma pasta misteriosa, que contém vídeos perturbadores de pessoas que parecem estar em situações de perigo. Então, eles recebem uma mensagem anônima, que diz a eles que todos irão morrer, caso algum deles se desconecte ou chame a polícia. A noite divertida que eles planejaram rapidamente de torna mortal, à medida que cada um deles se torna o alvo de algo sinistro, enquanto os demais assistem impotentes e aterrorizados.</info>
+</item> 
+
 
