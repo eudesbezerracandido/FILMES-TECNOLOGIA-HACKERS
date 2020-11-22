@@ -107,6 +107,6 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <thumbnail>https://media.fstatic.com/U1tNIs95Ce_jkYz6T-q4ZQbuiEs=/290x478/smart/media/movies/covers/2018/07/dc68b693bd6f6337e5209acc647d5fe2_300x442.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Ao encontrar um laptop, um jovem se conecta para iniciar um jogo on line com cinco de seus melhores amigos. Ele mostra a eles uma pasta misteriosa, que contém vídeos perturbadores de pessoas que parecem estar em situações de perigo. Então, eles recebem uma mensagem anônima, que diz a eles que todos irão morrer, caso algum deles se desconecte ou chame a polícia. A noite divertida que eles planejaram rapidamente de torna mortal, à medida que cada um deles se torna o alvo de algo sinistro, enquanto os demais assistem impotentes e aterrorizados.</info>
-</item> 
+</item>  
 
 
