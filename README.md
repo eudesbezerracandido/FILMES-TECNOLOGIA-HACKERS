@@ -107,6 +107,14 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <thumbnail>https://media.fstatic.com/U1tNIs95Ce_jkYz6T-q4ZQbuiEs=/290x478/smart/media/movies/covers/2018/07/dc68b693bd6f6337e5209acc647d5fe2_300x442.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Ao encontrar um laptop, um jovem se conecta para iniciar um jogo on line com cinco de seus melhores amigos. Ele mostra a eles uma pasta misteriosa, que contém vídeos perturbadores de pessoas que parecem estar em situações de perigo. Então, eles recebem uma mensagem anônima, que diz a eles que todos irão morrer, caso algum deles se desconecte ou chame a polícia. A noite divertida que eles planejaram rapidamente de torna mortal, à medida que cada um deles se torna o alvo de algo sinistro, enquanto os demais assistem impotentes e aterrorizados.</info>
-</item>  
+</item> 
+
+<item>
+<title>[COLOR silver][B] MILLENIUM - OS HOMENS QUE NÃO AMAVAM AS MULHERES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42efa3fbe93a3c69fe310d94fcc253bf8bcb622e&dn=Millennium%3A+Os+Homens+que+Nao+Amavam+as+Mulheres+%282012%29+BluRay+1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBy-ta1hI3ZEjlmxUWGvAq9lZCht7ZnXtCHg&usqp=CAU</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Harriet Vanger (Moa Garpendal) desapareceu há 36 anos, sem deixar pistas, em uma ilha no norte da Suécia. O local é de propriedade exclusiva da família Vanger, que o torna inacessível para a grande maioria das pessoas. A polícia jamais conseguiu descobrir o que aconteceu com a jovem, que tinha 16 anos na época do sumiço. Mesmo após tanto tempo, seu tio Henrik Vanger (Christopher Plummer) ainda está à procura e decide contratar Mikael Bomkvist (Daniel Craig), um jornalista investigativo que trabalha na revista Millennium. Bomkvist, que não está em um bom momento por enfrentar um processo por calúnia e difamação, resolve aceita a proposta e começa a trabalhar no caso. Para isso, ele vai contar com a ajuda de Lisbeth Salander (Rooney Mara), uma investigadora particular incontrolável e anti social.</info>
+</item>
 
 
