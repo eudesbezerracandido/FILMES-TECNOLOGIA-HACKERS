@@ -45,7 +45,7 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 </item>
 
 <item>
-<title>[COLOR silver] SNOWDEN - HEROI OI TRAIDOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver] SNOWDEN - HEROI  OU  TRAIDOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C52C1ADB34D34F3C3C1C5709F9D4E630F35DB2B3&dn=Snowden%20-%20Her%c3%b3i%20ou%20Traidor%202017%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/snowden-poster.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -116,5 +116,14 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Harriet Vanger (Moa Garpendal) desapareceu há 36 anos, sem deixar pistas, em uma ilha no norte da Suécia. O local é de propriedade exclusiva da família Vanger, que o torna inacessível para a grande maioria das pessoas. A polícia jamais conseguiu descobrir o que aconteceu com a jovem, que tinha 16 anos na época do sumiço. Mesmo após tanto tempo, seu tio Henrik Vanger (Christopher Plummer) ainda está à procura e decide contratar Mikael Bomkvist (Daniel Craig), um jornalista investigativo que trabalha na revista Millennium. Bomkvist, que não está em um bom momento por enfrentar um processo por calúnia e difamação, resolve aceita a proposta e começa a trabalhar no caso. Para isso, ele vai contar com a ajuda de Lisbeth Salander (Rooney Mara), uma investigadora particular incontrolável e anti social.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] O QUINTO PODER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:340a93455764e26bff11efe86b4b02c092000efd</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/210/317/21031750_20130823192227331.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao fundar o polêmico website WikiLeaks, Julian Assange (Benedict Cumberbatch) contou com o apoio do amigo Daniel Domscheit-Berg (Daniel Brühl). Com o crescimento do site e do grau de influência de Assange, a relação entre os dois acabou bastante abalada. Carice van Houten, Laura Linney e Anthony Mackie completam o elenco.</info>
+</item>
+
 
 
