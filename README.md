@@ -125,5 +125,14 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 <info> Ao fundar o polêmico website WikiLeaks, Julian Assange (Benedict Cumberbatch) contou com o apoio do amigo Daniel Domscheit-Berg (Daniel Brühl). Com o crescimento do site e do grau de influência de Assange, a relação entre os dois acabou bastante abalada. Carice van Houten, Laura Linney e Anthony Mackie completam o elenco.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BLACK MIRROR - BANDERSNATCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5871b73429e1d8fd3aa416393939923a242a00a7&dn=%5bEXCLUSIVO%20COMANDOTORRENTS.COM%5d%20Black%20Mirror%20-%20Bandersnatch%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM5MzgzMjM3OF5BMl5BanBnXkFtZTgwMzQ2MzQwNzM@._V1_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto adapta um romance de fantasia para videogame em 1984, um jovem programador começa a questionar o próprio conceito de realidade e acaba enfrentando um desafio alucinante.
+Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro ‘Bandersnatch’, um romance onde você pode fazer escolhas e isso determina a história. Ele tem a oportunidade de levar seu jogo para a Tuckersoft, uma empresa de software, e fazer com que eles o divulguem. No entanto, quanto mais ele trabalha no jogo, mais sua vida emula o jogo, com escolhas que estão fora de seu controle. Stefan parece estar ficando louco.</info>
+</item>
+
 
 
