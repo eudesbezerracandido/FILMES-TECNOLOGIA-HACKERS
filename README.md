@@ -134,5 +134,13 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro ‘Bandersnatch’, um romance onde você pode fazer escolhas e isso determina a história. Ele tem a oportunidade de levar seu jogo para a Tuckersoft, uma empresa de software, e fazer com que eles o divulguem. No entanto, quanto mais ele trabalha no jogo, mais sua vida emula o jogo, com escolhas que estão fora de seu controle. Stefan parece estar ficando louco.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DARK WEB - AMIZADE DESFEITA  2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f901e4458a29b6c1c941da2e718acf2151f965b8&dn=[ACESSE%20COMANDOTORRENTS.COM]%20Amizade%20Desfeita%202%202019%20[1080p]%20[BluRay]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
+<thumbnail>https://play-lh.googleusercontent.com/31eU3KtLJDVYBiDFjHvNEN8JkvoNo-clscplSTG8inVs8H-dd8IZpR03emtkGznSJXBz1w</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem de 20 anos encontra arquivos ocultos no armazenamento de memória do seu novo laptop e sem perceber ele se vê preso na tela do computador e dentro da parte mais profunda e obscura da web.</info>
+</item>
+
 
 
