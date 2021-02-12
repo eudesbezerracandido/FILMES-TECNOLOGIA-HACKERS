@@ -140,7 +140,7 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <thumbnail>https://play-lh.googleusercontent.com/31eU3KtLJDVYBiDFjHvNEN8JkvoNo-clscplSTG8inVs8H-dd8IZpR03emtkGznSJXBz1w</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um jovem de 20 anos encontra arquivos ocultos no armazenamento de memória do seu novo laptop e sem perceber ele se vê preso na tela do computador e dentro da parte mais profunda e obscura da web.</info>
-</item>
+</item> 
 
 
 
