@@ -172,7 +172,7 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <thumbnail>https://www.themoviedb.org/t/p/original/4ca2o7afA65YGoc9hsmwobIivsQ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Especialistas em tecnologia e profissionais da área fazem um alerta: as redes sociais podem ter um impacto devastador sobre a democracia e a humanidade. Pessoas por trás do Google, Twitter, Facebook, Instagram e YouTube revelam como essas plataformas estão reprogramando a civilização, expondo o que está escondido no outro lado da tela.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] CHAMADA NÃO IDENTIFICADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
