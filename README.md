@@ -174,6 +174,15 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <info> Especialistas em tecnologia e profissionais da área fazem um alerta: as redes sociais podem ter um impacto devastador sobre a democracia e a humanidade. Pessoas por trás do Google, Twitter, Facebook, Instagram e YouTube revelam como essas plataformas estão reprogramando a civilização, expondo o que está escondido no outro lado da tela.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CHAMADA NÃO IDENTIFICADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83528B584405A4A7A34FA9593ECDABF2BFF120BC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xYwhEru1VlsIjReUWjzgSKuNuW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um psicopata consegue penetrar no sistema de segurança de alta tecnologia de uma família e nele instala uma bomba-relógio. Durante 90 minutos ele aterroriza a todos, exigindo apena uma resposta para a sua pergunta; Quem sou eu?.</info>
+</item>
+
+
 
 
 
