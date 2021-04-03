@@ -166,6 +166,15 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <info> Na série Don’t F**k with Cats: Uma Caçada Online 1ª Temporada Torrent – WEB-DL 720p Dual Áudio, Os vídeos terríveis de um criminoso levam um grupo de pessoas a iniciar uma caçada arriscada com destino a um submundo sombrio.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O DILEMA DAS REDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59e6c0ef8c68d0d56e3f9f678fc351fe2eed533c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4ca2o7afA65YGoc9hsmwobIivsQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Especialistas em tecnologia e profissionais da área fazem um alerta: as redes sociais podem ter um impacto devastador sobre a democracia e a humanidade. Pessoas por trás do Google, Twitter, Facebook, Instagram e YouTube revelam como essas plataformas estão reprogramando a civilização, expondo o que está escondido no outro lado da tela.</info>
+</item>
+
+
 
 
 
