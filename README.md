@@ -150,6 +150,15 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <info>O hacker Genius Connor descobre a Cicada 3301, uma caça ao tesouro online que pode ser uma ferramenta de recrutamento para uma sociedade secreta. Logo Conner, o amigo especialista em arte Avi e a bibliotecária secreta Gwen estão correndo de locais de grafite para bibliotecas antigas para descobrir pistas do mundo real. Mas eles devem ultrapassar os agentes agressivos da NSA, também na cola da Cicada, que querem a glória para si próprios.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O CÓDIGO BILL GATES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:500b614a833503709a2245bf10cca8a09e949c79</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5RIVJnpIkPt90EwJQwPzqS1UTPG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Essa série de três episódios narra o visionário da tecnologia? medida que ele busca soluções únicas para alguns dos problemas mais complexos do mundo com o mesmo nível de otimismo, curiosidade e fervor que inspiraram sua visão original para a Microsoft. - Documentário original Netflix.</info>
+</item>
+
+
 
 
 
