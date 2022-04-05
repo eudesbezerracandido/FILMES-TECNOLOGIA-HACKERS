@@ -191,7 +191,7 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 
 <item>
 <title>[COLOR silver][B] KILLER APP - APLICATIVO DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/killer_202204/KILLER%20APP-APLICATIVO%20DA%20MORTE.mp4</link>
+
 <thumbnail>https://www.themoviedb.org/t/p/original/avV00zfkxos3bO6RsGuzuObgLOt.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma jovem hacker cria um aplicativo de rede “antissocial” que coincide com os inimigos em vez dos amigos. Quando seus inimigos começam a aparecer mortos, ela deve descobrir quem ou o que está por trás disso antes que seja tarde demais.</info>
