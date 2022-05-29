@@ -4,66 +4,65 @@ FILMES HACKERS
 <item>
 <title>[COLOR silver] HACKERS PIRATAS DO COMPUTADOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3717B5083942A7F5CB3D45CC36D2E16A4749F9E7</link>
-<thumbnail>https://ia601500.us.archive.org/28/items/1-k-6-y-6le-zwe-18-byd-zxbk-n-2wv-qrv-a/1K6Y6leZwe18BydZxbkN2wvQRvA.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/aAhuKTpG7lulJoJIpxQ7Xg26DRh.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> Um adolescente conhecido como Zero Cool é uma lenda entre os hackers, pois com apenas 11 anos ele inutilizou 1507 computadores em Wall Street, provocando um caos total no mundo das finanças. Por conta deste ato ele ficou proibido de mexer em um computador até chegar aos 18 anos, mas quando pode retorna aos computadores utilizando agora o codinome Crash Override. Até que se depara com um gigantesco plano que, além de tornar o autor muito rico, pode incriminá-lo. Assim, com a ajuda de seus companheiros, ele tenta salvar sua pele.</info>
 </item>
 
 <item>
 <title>[COLOR silver] HACKER [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477c3853b3dcdb85dcc1124b1b5bf90260ac4623</link>
-<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/blackhat.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/20M7sHjKS0MvuJEMV66tJFdz8YC.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>O hacker Hathaway (Chris Hemsworth) é um gênio da codificação que foi condenado a 15 anos de prisão. Para sair da cadeia antes da conclusão da pena, ele aceita identificar e capturar um hacker que tem feito danos virtuais terríveis com consequências catastróficas no mundo real.
-
 Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, encontra o seu caminho para fora de uma sentença de prisão de 15 ano, quando partes de um código de computador, ele escreveu uma vez durante suas aparece jovens em um malware que desencadeou um ataque terrorista em uma usina de energia nuclear na China . Esta oportunidade vai reuni-lo com um velho amigo, mas também irá colocá-lo no meio de um jogo de poder entre o americano eo governo chinês, bem como um hacker de vilão arco cuja identidade ele tem que descobrir se ele quer manter sua liberdade e sua vida .</info>
 </item>
 
 <item>
-<title>[COLOR silver]NENHUM SISTEMA ESTA SEGURO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver] NENHUM SISTEMA ESTA SEGURO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:211363AD694B09A27676E51AC7F4E4F5EAE3948D</link>
-<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/495789.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/9sML6FGEDVPg1ecAWHmX03xg1O.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Benjamin, um jovem gênio da informática é convidado para se integrar a um subversivo grupo de hackers que procura a atenção por todo o mundo.</info>
 </item>
 
 <item>
 <title>[COLOR silver] HACKER TODO CRIME TEM UM INICIO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C82A564A40E09DE1559255917455064411D928B9</link>
-<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/unnamed.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Alex Danyliuk cansou de viver rodeado dos diversos problemas financeiros de sua família e tomou uma decisão drástica: entrar para o mundo do crime e mudar a vida de seus pais. Ao lado de Sye e da hacker Kira, que conhecem bem o mundo obscuro da criminalidade online, eles se tornam uma pedra no sapato do mercado financeiro e chegam aos ouvidos de Z, líder da organização Anonymous.</info> 
 </item>
 
 <item>
 <title>[COLOR silver] STEVE JOBS - O FILME [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:109378B3342ED753AE4A0A46F69F594FAAF22481</link>
-<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/file.png</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/earqSeKTqVUdMpwvrHKqzoux6jv.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Steve Jobs impressiona ao retratar a vida de um personagem através de recortes pontuais da experiência do biografado – sem nenhum tipo de complacência, diga-se; mas peca ao ruminar um drama pessoal para receber a alcunha de “filme família”. Isso, amparado por um elenco espetacular.Com roteiro de Aaron Sorkin (A Rede Social), o filme de Danny Boyle procura traçar uma análise da vida de Steve Jobs a partir de três blocos, cada um centrado no momento do lançamento de produtos caros à carreira do magnata da Apple. O primeiro deles tem lugar em 1984, com a “estreia” do computador Macintosh; em seguida, com a chegada do NeXT (1988), com o profissional já fora da empresa que o consagrou; e, finalmente, o retorno triunfante à companhia em 1998, com a apresentação do iMac.Pode soar estranho, em princípio, mas a ideia de captar a aura de um personagem a partir de “apenas” três momentos de sua vida...</info>
 </item>
 
 <item>
 <title>[COLOR silver] SNOWDEN - HEROI  OU  TRAIDOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C52C1ADB34D34F3C3C1C5709F9D4E630F35DB2B3</link>
-<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/snowden-poster.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/glgKZrHcgsHJ8uBwWg8eeTNZQJk.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> Ex-funcionário terceirizado da Agência de Segurança dos Estados Unidos, Edward Snowden torna-se inimigo número um da nação ao divulgar a jornalistas uma série de documentos sigilosos que comprovam atos de espionagem praticados pelo governo norte-americano contra cidadãos comuns e lideranças internacionais.</info>
 </item>
 
 <item>
 <title>[COLOR silver] PIRATAS DO VALE DO SILICIO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a1dd82bf3294a44bfc6c5cd2ee62d10a0376b0</link>
-<thumbnail>https://ia801503.us.archive.org/20/items/hacker_20200917/6160rLGSupL._AC_SX569_.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/4f75RRgolJL8x5TNb63KHRPLI8Y.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Mostra como Bill Gates e Steve Jobs fundaram as respectivas Microsoft e Apple e a concorrência entre os dois para ver quem chegava primeiro e as estratégias que utilizaram para criarem suas empresas.</info>
 </item>
 
 <item>
 <title>[COLOR silver] REDE SOCIAL [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:786c50ac20a7978a63b45b67ef32beaf44649120</link>
-<thumbnail>https://ia601504.us.archive.org/5/items/rede-social/dica-de-filme-a-Rede-Social-720x1024.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> Em uma noite de outono em 2003, Mark Zuckerberg (Jesse Eisenberg), analista de sistemas graduado em Harvard, se senta em seu computador e começa a trabalhar em uma nova ideia. Apenas seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso da rede social Facebook. O sucesso, no entanto, o leva a complicações em sua vida social e profissional.</info>
 </item>
 
