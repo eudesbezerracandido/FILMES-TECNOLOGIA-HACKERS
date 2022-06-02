@@ -18,14 +18,6 @@ FILMES HACKERS
 </item>
 
 <item>
-<title>[COLOR silver][B]O INIMIGO AO MEU REDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:540163d24a1a51d997c0017c94190fc108dde6dc</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sJKcpT5LRuCdGpWm29yH2bMWqT0.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um jovem hacker é perseguido por agentes governamentais e descobre que tem em mãos um arquivo ultrassecreto capaz de controlar a mente humana.</info>
-</item>
-
-<item>
 <title>[COLOR silver] HACKER [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477c3853b3dcdb85dcc1124b1b5bf90260ac4623</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/20M7sHjKS0MvuJEMV66tJFdz8YC.jpg</thumbnail>
