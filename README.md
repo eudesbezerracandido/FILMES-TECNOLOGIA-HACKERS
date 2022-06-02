@@ -10,6 +10,14 @@ FILMES HACKERS
 </item>
 
 <item>
+<title>[COLOR silver][B]DOCUMENTÁRIO HACKER - REALIDADE VIOLADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/REALIDADE/REALIDADE%20VIOLADA.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylezrZHKJ4yk9y0JzyJfkzJhwJk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mais de 9 milhões de brasileiros foram vítimas de fraudes de cartões de crédito em 2018. Mais de 4 milhões sofreram, especificamente, clonagem de cartão de crédito. Há 1 tentativa de fraude em e-commerce a cada 6,5 segundos no Brasil. E ainda nos sentimos seguros quando ouvimos a pergunta “débito ou crédito?”. Será que estamos mesmo?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]O INIMIGO AO MEU REDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:540163d24a1a51d997c0017c94190fc108dde6dc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sJKcpT5LRuCdGpWm29yH2bMWqT0.jpg</thumbnail>
