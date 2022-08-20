@@ -190,19 +190,13 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 
 <item>
 <title>[COLOR silver][B] SUJEITO A TERMOS E CONDIÇÕES ( DOC. ) Archive [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://archive.org/download/sujeito-a-termos-econdicoes_202104/Sujeito%20A%20Termos%20ECondicoes.mp4</link>
+<link>https://archive.org/download/sujeito-a-termos-econdicoes_202104/Sujeito%20A%20Termos%20ECondicoes.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hiXXUS7LVqALDNugz5kRvS0Xkx1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O que acontece quando o usuário clica em "aceitar" um contrato de termo de uso na internet? O documentário busca revelar o que vem sendo feito pelas corporações e os governos que possuem acesso ilimitado as informações dos usuários através de bancos de dados em computadores e celulares, permitidos de serem acessados ao se clicar "aceitar" em um termo de uso.</info>
 </item>
 
-<item>
-<title>[COLOR silver][B] KILLER APP - APLICATIVO DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<utube>dPIa4TmXRZc</utube>
-<thumbnail>https://www.themoviedb.org/t/p/original/avV00zfkxos3bO6RsGuzuObgLOt.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma jovem hacker cria um aplicativo de rede “antissocial” que coincide com os inimigos em vez dos amigos. Quando seus inimigos começam a aparecer mortos, ela deve descobrir quem ou o que está por trás disso antes que seja tarde demais.</info>
-</item> 
+
 
 
 
