@@ -1,7 +1,7 @@
 # FILMES-TECNOLOGIA-HACKERS
 FILMES HACKERS
  
-<item>
+<items>
 <title>[COLOR silver] HACKERS PIRATAS DO COMPUTADOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3717B5083942A7F5CB3D45CC36D2E16A4749F9E7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aAhuKTpG7lulJoJIpxQ7Xg26DRh.jpg</thumbnail>
@@ -194,7 +194,7 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <thumbnail>https://www.themoviedb.org/t/p/original/hiXXUS7LVqALDNugz5kRvS0Xkx1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O que acontece quando o usuário clica em "aceitar" um contrato de termo de uso na internet? O documentário busca revelar o que vem sendo feito pelas corporações e os governos que possuem acesso ilimitado as informações dos usuários através de bancos de dados em computadores e celulares, permitidos de serem acessados ao se clicar "aceitar" em um termo de uso.</info>
-</item>
+</items>
 
 
 
