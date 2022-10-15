@@ -149,8 +149,8 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 </item> 
 
 <item>
-<title>[COLOR silver][B] DARK WEB-CICADA 3301 (LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48A1D75634A5B29F6A70A6618AF358334919A5A7</link>
+<title>[COLOR silver][B] DARK WEB-CICADA 3301  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a7233028840fbe515c4e492299a404eafb07c4f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bwopDTw5ViHnB6DCx8MCaycLIG3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O hacker Genius Connor descobre a Cicada 3301, uma caça ao tesouro online que pode ser uma ferramenta de recrutamento para uma sociedade secreta. Logo Conner, o amigo especialista em arte Avi e a bibliotecária secreta Gwen estão correndo de locais de grafite para bibliotecas antigas para descobrir pistas do mundo real. Mas eles devem ultrapassar os agentes agressivos da NSA, também na cola da Cicada, que querem a glória para si próprios.</info>
