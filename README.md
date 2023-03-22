@@ -1,4 +1,14 @@
 # FILMES-TECNOLOGIA-HACKERS
+
+
+
+<item>
+<title>[COLOR silver][B] OS ESTAGIÁRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83ef40ca2aefe3036abb4812df4ee91760c36379</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eJ2yNRyP3QJ36lO81f19ep98eWw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Billy (Vince Vaughn) e Nick (Owen Wilson) são vendedores cujas carreiras têm sido torpedeado pelo mundo digital. Tentando provar que não são obsoletos, eles desafiar as probabilidades por falar o seu caminho em um estágio cobiçado pelo Google, juntamente com um batalhão de estudantes universitários brilhantes. Mas, ganhando entrada para esta utopia é apenas metade da batalha. Agora, eles devem competir com um grupo de gênios com experiência em tecnologia da nação a maioria de elite, para provar que a necessidade é realmente a mãe de re-invenção.</info>
+</item>
  
 <item>
 <title>[COLOR silver] HACKERS PIRATAS DO COMPUTADOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
