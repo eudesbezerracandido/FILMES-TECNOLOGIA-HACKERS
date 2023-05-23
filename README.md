@@ -171,7 +171,7 @@ Enredo: 1984. Stefan está desenvolvendo um jogo de computador baseado no livro 
 <thumbnail>https://www.themoviedb.org/t/p/original/bwopDTw5ViHnB6DCx8MCaycLIG3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O hacker Genius Connor descobre a Cicada 3301, uma caça ao tesouro online que pode ser uma ferramenta de recrutamento para uma sociedade secreta. Logo Conner, o amigo especialista em arte Avi e a bibliotecária secreta Gwen estão correndo de locais de grafite para bibliotecas antigas para descobrir pistas do mundo real. Mas eles devem ultrapassar os agentes agressivos da NSA, também na cola da Cicada, que querem a glória para si próprios.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] O CÓDIGO BILL GATES ( DOC.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
