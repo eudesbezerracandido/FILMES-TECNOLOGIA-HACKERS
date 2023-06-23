@@ -9,6 +9,14 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Billy (Vince Vaughn) e Nick (Owen Wilson) são vendedores cujas carreiras têm sido torpedeado pelo mundo digital. Tentando provar que não são obsoletos, eles desafiar as probabilidades por falar o seu caminho em um estágio cobiçado pelo Google, juntamente com um batalhão de estudantes universitários brilhantes. Mas, ganhando entrada para esta utopia é apenas metade da batalha. Agora, eles devem competir com um grupo de gênios com experiência em tecnologia da nação a maioria de elite, para provar que a necessidade é realmente a mãe de re-invenção.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AqLfJVXgyS10JLTDLfn4cIgdqGc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao neutralizar uma violação de dados em um ônibus autônomo de tecnologia avançada, a hacker ética Mel Bandison sem querer desmonta uma rede criminosa internacional. De repente, ela vê sua vida virar de cabeça para baixo quando é injustamente acusada de assassinato. Perseguida por criminosos e pela Interpol em uma cidade onde há câmeras por todos os lados, ela pede a ajuda de Thomas, um cara com quem saiu uma vez e que acaba envolvido na situação. Agora ela vai precisar de seu antigo mentor, Buddy Benschop, para tentar provar sua inocência.</info>
+</item>
  
 <item>
 <title>[COLOR silver] HACKERS PIRATAS DO COMPUTADOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
