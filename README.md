@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] HACKERVILLE TEMPORADA COMPLETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:700B783A2A239CB564AF0BA40DB1E2110B41FCAF</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/jHcg4cEVxT7355VRFGfbVp08Oe0.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após um ataque cibernético a um banco alemão, um investigador se junta às autoridades locais e a um hacker de elite para rastrear os suspeitos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
