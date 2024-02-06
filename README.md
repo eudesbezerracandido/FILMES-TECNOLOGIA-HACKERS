@@ -122,15 +122,6 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 </item>
 
 <item>
-<title>[COLOR silver][B] TAKEDOWN - CAÇADA VIRTUAL WEB [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>https://rr2---sn-bg07dnrs.c.drive.google.com/videoplayback?expire=1707194771&ei=Y4_BZd_iNYzn1bYP2NiM-AU&ip=186.233.111.101&id=9906708b201bf8e6&itag=37&source=webdrive&requiressl=yes&xpc=EghonaK1InoBAQ==&ttl=transient&susc=dr&driveid=1TIZK7zE9yqRIE0Q3N69GjEZbtxVO0BIL&app=explorer&eaua=8eAAfu2gNpg&mime=video/mp4&vprv=1&prv=1&dur=5758.897&lmt=1682903028275286&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,driveid,app,eaua,mime,vprv,prv,dur,lmt&sig=AJfQdSswRQIhAMUwXAJARqhI4j4c2q3MN7VGRmVL8Rb4pcSyy5cVshIfAiAF6kqZFTt1jijAYVflIlDoTzWe8GjrPSP4j869vhQmCg==&redirect_counter=1&cm2rm=sn-bg0ye7l&req_id=6ef94d871c06a3ee&cms_redirect=yes&cmsv=e&mh=78&mm=34&mn=sn-bg07dnrs&ms=ltu&mt=1707183638&mv=m&mvi=2&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRgIhAPFJiu2OZU-rgFPwPFy1sTggwr1_zAQodsdGR3YDHBQNAiEAg3y8c24U12Hiq6bLGd5bD6Lo5XqVhU4W0WnFxRBnZss%3D</link>
-<thumbnail>https://janioantunes.files.wordpress.com/2014/05/takedown.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Kevin Mitnick (Skeet Urlich) é possivelmente o melhor hacker que existe no mundo. Sempre procurando por mais informações confidenciais, tentando ganhar mais cyber-prêmios a cada dia, ele busca constantemente novas conquistas. Quando entra no sistema de um perito em segurança virtual e ex-hacker, encontra um desafio aparentemente impossível de superar. Baseado em uma história real.
-Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e mais informações, buscando cada vez mais cibertrofias todos os dias, ele constantemente procura desafios maiores. Quando ele invade o computador de um especialista em segurança e um ex-hacker, ele encontra um – e muito mais que isso …</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] JOGO DA IMITAÇÃO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488A59696CF967548E20D3E442FF076314785FCD</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1a/O_Jogo_da_Imita%C3%A7%C3%A3o.jpg</thumbnail>
@@ -156,7 +147,7 @@ Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e
 
 <item>
 <title>[COLOR silver][B] UNFRIENDED DARK WEB -  AMIZADE DESFEITA 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec6c08c671ba1187dafa38f2b7b849c506e734aa</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0B0EFA043F28B7902686E11D5E160BF4189A8A8</link>
 <thumbnail>https://media.fstatic.com/U1tNIs95Ce_jkYz6T-q4ZQbuiEs=/290x478/smart/media/movies/covers/2018/07/dc68b693bd6f6337e5209acc647d5fe2_300x442.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Ao encontrar um laptop, um jovem se conecta para iniciar um jogo on line com cinco de seus melhores amigos. Ele mostra a eles uma pasta misteriosa, que contém vídeos perturbadores de pessoas que parecem estar em situações de perigo. Então, eles recebem uma mensagem anônima, que diz a eles que todos irão morrer, caso algum deles se desconecte ou chame a polícia. A noite divertida que eles planejaram rapidamente de torna mortal, à medida que cada um deles se torna o alvo de algo sinistro, enquanto os demais assistem impotentes e aterrorizados.</info>
