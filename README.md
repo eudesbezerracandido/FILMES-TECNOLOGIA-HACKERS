@@ -4,6 +4,9 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa</link>
@@ -19,14 +22,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Billy (Vince Vaughn) e Nick (Owen Wilson) são vendedores cujas carreiras têm sido torpedeado pelo mundo digital. Tentando provar que não são obsoletos, eles desafiar as probabilidades por falar o seu caminho em um estágio cobiçado pelo Google, juntamente com um batalhão de estudantes universitários brilhantes. Mas, ganhando entrada para esta utopia é apenas metade da batalha. Agora, eles devem competir com um grupo de gênios com experiência em tecnologia da nação a maioria de elite, para provar que a necessidade é realmente a mãe de re-invenção.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/AqLfJVXgyS10JLTDLfn4cIgdqGc.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Ao neutralizar uma violação de dados em um ônibus autônomo de tecnologia avançada, a hacker ética Mel Bandison sem querer desmonta uma rede criminosa internacional. De repente, ela vê sua vida virar de cabeça para baixo quando é injustamente acusada de assassinato. Perseguida por criminosos e pela Interpol em uma cidade onde há câmeras por todos os lados, ela pede a ajuda de Thomas, um cara com quem saiu uma vez e que acaba envolvido na situação. Agora ela vai precisar de seu antigo mentor, Buddy Benschop, para tentar provar sua inocência.</info>
-</item>
  
 <item>
 <title>[COLOR silver] HACKERS PIRATAS DO COMPUTADOR [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
@@ -37,8 +32,16 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO HACKER - REALIDADE VIOLADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/REALIDADE/REALIDADE%20VIOLADA.mp4</link>
+<title>[COLOR silver][B] DOCUMENTÁRIO HACKER - REALIDADE VIOLADA DÉBITO OU CRÉDITO PARTE 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>UaAwVS80mkg</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/ylezrZHKJ4yk9y0JzyJfkzJhwJk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mais de 9 milhões de brasileiros foram vítimas de fraudes de cartões de crédito em 2018. Mais de 4 milhões sofreram, especificamente, clonagem de cartão de crédito. Há 1 tentativa de fraude em e-commerce a cada 6,5 segundos no Brasil. E ainda nos sentimos seguros quando ouvimos a pergunta “débito ou crédito?”. Será que estamos mesmo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO HACKER - REALIDADE VIOLADA CENTRAL DO CRIME 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>gxEmUwjJ1qM</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/ylezrZHKJ4yk9y0JzyJfkzJhwJk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Mais de 9 milhões de brasileiros foram vítimas de fraudes de cartões de crédito em 2018. Mais de 4 milhões sofreram, especificamente, clonagem de cartão de crédito. Há 1 tentativa de fraude em e-commerce a cada 6,5 segundos no Brasil. E ainda nos sentimos seguros quando ouvimos a pergunta “débito ou crédito?”. Será que estamos mesmo?</info>
@@ -54,7 +57,7 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 </item>
 
 <item>
-<title>[COLOR silver] NENHUM SISTEMA ESTA SEGURO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver] INVASORES - NENHUM SISTEMA ESTA SEGURO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <utube>-ovLuuBiwY8</utube>
 <thumbnail>https://www.themoviedb.org/t/p/original/9sML6FGEDVPg1ecAWHmX03xg1O.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
@@ -112,6 +115,15 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 <item>
 <title>[COLOR silver][B] TAKEDOWN - CAÇADA VIRTUAL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fadb871a8c924da76884edf80b8137be97ff95b</link>
+<thumbnail>https://janioantunes.files.wordpress.com/2014/05/takedown.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kevin Mitnick (Skeet Urlich) é possivelmente o melhor hacker que existe no mundo. Sempre procurando por mais informações confidenciais, tentando ganhar mais cyber-prêmios a cada dia, ele busca constantemente novas conquistas. Quando entra no sistema de um perito em segurança virtual e ex-hacker, encontra um desafio aparentemente impossível de superar. Baseado em uma história real.
+Enredo: Kevin Mitnick é possivelmente o melhor hacker do mundo. Caçando mais e mais informações, buscando cada vez mais cibertrofias todos os dias, ele constantemente procura desafios maiores. Quando ele invade o computador de um especialista em segurança e um ex-hacker, ele encontra um – e muito mais que isso …</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TAKEDOWN - CAÇADA VIRTUAL WEB [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>https://rr2---sn-bg07dnrs.c.drive.google.com/videoplayback?expire=1707194771&ei=Y4_BZd_iNYzn1bYP2NiM-AU&ip=186.233.111.101&id=9906708b201bf8e6&itag=37&source=webdrive&requiressl=yes&xpc=EghonaK1InoBAQ==&ttl=transient&susc=dr&driveid=1TIZK7zE9yqRIE0Q3N69GjEZbtxVO0BIL&app=explorer&eaua=8eAAfu2gNpg&mime=video/mp4&vprv=1&prv=1&dur=5758.897&lmt=1682903028275286&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,driveid,app,eaua,mime,vprv,prv,dur,lmt&sig=AJfQdSswRQIhAMUwXAJARqhI4j4c2q3MN7VGRmVL8Rb4pcSyy5cVshIfAiAF6kqZFTt1jijAYVflIlDoTzWe8GjrPSP4j869vhQmCg==&redirect_counter=1&cm2rm=sn-bg0ye7l&req_id=6ef94d871c06a3ee&cms_redirect=yes&cmsv=e&mh=78&mm=34&mn=sn-bg07dnrs&ms=ltu&mt=1707183638&mv=m&mvi=2&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRgIhAPFJiu2OZU-rgFPwPFy1sTggwr1_zAQodsdGR3YDHBQNAiEAg3y8c24U12Hiq6bLGd5bD6Lo5XqVhU4W0WnFxRBnZss%3D</link>
 <thumbnail>https://janioantunes.files.wordpress.com/2014/05/takedown.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Kevin Mitnick (Skeet Urlich) é possivelmente o melhor hacker que existe no mundo. Sempre procurando por mais informações confidenciais, tentando ganhar mais cyber-prêmios a cada dia, ele busca constantemente novas conquistas. Quando entra no sistema de um perito em segurança virtual e ex-hacker, encontra um desafio aparentemente impossível de superar. Baseado em uma história real.
