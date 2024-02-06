@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/k3gGPN3TCXQCbnWY6SwxSE0LCxo.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Mel Bandison (Holly Mae Brood) é uma hacker excepcional que cai em uma emboscada e é acusada de assassinato, precisando fugir às pressas da polícia. Tudo isso aconteceu após ela descobrir um escândalo de privacidade inimaginável na Holanda, agora resta encontrar as pessoas que estão a chantageando e fazendo de sua vida um verdadeiro inferno.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS ESTAGIÁRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83ef40ca2aefe3036abb4812df4ee91760c36379</link>
