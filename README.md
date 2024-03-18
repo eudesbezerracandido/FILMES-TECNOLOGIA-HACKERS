@@ -80,7 +80,7 @@ Enredo: Nick Hathaway, um hacker de extremamente talentoso que tem perdido foi, 
 
 <item>
 <title>[COLOR silver] HACKER TODO CRIME TEM UM INICIO [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C82A564A40E09DE1559255917455064411D928B9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:701116E96710971DB4A3F2E04CE07E976349A273</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>Alex Danyliuk cansou de viver rodeado dos diversos problemas financeiros de sua família e tomou uma decisão drástica: entrar para o mundo do crime e mudar a vida de seus pais. Ao lado de Sye e da hacker Kira, que conhecem bem o mundo obscuro da criminalidade online, eles se tornam uma pedra no sapato do mercado financeiro e chegam aos ouvidos de Z, líder da organização Anonymous.</info> 
