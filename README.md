@@ -55,7 +55,7 @@
 
 <item>
 <title>[COLOR silver] HACKER [B][/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:477c3853b3dcdb85dcc1124b1b5bf90260ac4623</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C91A9DD89E21A4AE602720837E5A6C857ACFAF1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/20M7sHjKS0MvuJEMV66tJFdz8YC.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>O hacker Hathaway (Chris Hemsworth) é um gênio da codificação que foi condenado a 15 anos de prisão. Para sair da cadeia antes da conclusão da pena, ele aceita identificar e capturar um hacker que tem feito danos virtuais terríveis com consequências catastróficas no mundo real.
