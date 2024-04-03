@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PERSEGUIÇÃO VIRTUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:041bc4159fbe458e8c3ae755c78dbfadb048e2cb</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6PI2QDSSTzCOPS0JdQnmh3UE1PS.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando uma instrutora de fitness chamada Jo se torna vítima de perseguição cibernética que se torna física, ela deve usar suas habilidades de preparação física e seu crescente instinto de luta para permanecer viva.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HACKERVILLE TEMPORADA COMPLETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:700B783A2A239CB564AF0BA40DB1E2110B41FCAF</link>
